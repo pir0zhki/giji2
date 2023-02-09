@@ -1,5 +1,5 @@
 //index.html用
-const url = "../dataset.json";//index.htmlからみたpath
+const url = "dataset.json";//index.htmlからみたpath
 
 function formatJSON(json) {
   console.log(json);
